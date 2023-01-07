@@ -97,3 +97,62 @@
     font-weight: 500;
     font-size: 25px;
 }
+
+footer {
+    background-color: black;
+    color: #F8F8F8;
+    display: flex;
+    padding: 180px;
+}
+
+.footer-div {
+    width: 50%;
+    margin-right: 200px;
+}
+
+.footer-h4 {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+footer img {
+    width: 47px;
+    height: 46px;
+    margin-top: 30px;
+}
+
+.footer-p {
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.submit-div {
+    width: 50%;
+}
+
+.submit-h4 {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.email-div {
+    background-color: black;
+    color: white;
+    width: 325px;
+    height: 64px;
+    font-size: 18px;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin: 20px 0px;
+    padding: 10px;
+}
+
+.btn-submit {
+    width: 170px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+}
